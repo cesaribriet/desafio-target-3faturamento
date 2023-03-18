@@ -14,7 +14,7 @@ public class Programa {
 	public static void main(String[] args) {
 		
 		
-		System.out.println("Digite o caminho do arquivo: ");
+		System.out.println("Digite o caminho do arquivo JSON (Ex: C:/Temp/dados.json): ");
 		Scanner sc = new Scanner(System.in);
 		
 		//Como exemplo, considerei o caminho C:/Temp/dados.json
